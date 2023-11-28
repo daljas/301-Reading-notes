@@ -24,4 +24,17 @@ Application Layer-Provides a network interface for user applications. It support
 
    It help gives steps to where you should start troubleshooting from. Example is a user having internet trouble instead of focusing on the computer software you should start and make sure everything plugged in and the cable is good before checking software.
 
+## What Is Wireshark and How Is It Used?
+
+1.What is Wireshark?
+
+Wireshark is a widely-used open-source network protocol analyzer. It is a software tool that allows users to capture and inspect the data traveling back and forth on a network in real-time
+
+2.What is a packet?
+
+A packet is a basic unit of data that is transmitted over a network
+
+3.What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+
+It can be use for Packet Capture and Analysis, Protocol Decoding and Analysis and Traffic Filtering and Statistics and they can be use for malicious actor to find  vulnerabilities in a network to exploit. They can also be use for troubleshooting network issue on a network by admins.
    
